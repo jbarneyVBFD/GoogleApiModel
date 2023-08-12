@@ -1,4 +1,4 @@
-# GoogleApiModel for ConversationTranslator
+# Google Api Model in Swift
 
 **GoogleApiModel.swift** serves as a pivotal module within the **Conversationist** application. This module was designed to seamlessly connect with Google's Translation API. It can be easily integrated into other translation applications or any service looking to harness the power of Google's Translation API.
 
